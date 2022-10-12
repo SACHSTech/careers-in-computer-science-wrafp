@@ -1,11 +1,15 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=8878124&assignment_repo_type=AssignmentRepo)
 # Careers in Computer Science - Video Game Developer
-## By Kevin Huang
+By Kevin Huang
+
+
+
 
 
 
 
 ## Table of Contents
+
 | Section  | Name  |
 |---|---|
 | 1.1  | Basics  |
@@ -18,7 +22,12 @@
 
 ## 1.1 Basics
 
-#### Video Game Developer                           
+<img style = "float: left;"  src = "gamedeveloper_image.PNG"  width = "250"  height = "250">
+
+
+
+
+
 
 https://core.myblueprint.ca/V5/Work/Occupation
 
