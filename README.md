@@ -15,13 +15,15 @@ By Kevin Huang
 ---
 
 
-## 1.1 Basics
+# 1.1 Basics
 
 <img src = "gamedeveloper_image.PNG"  width = "250"  height = "250">
 
 
-(“Game developer Images | Free Vectors, Stock Photos & PSD”)
+Source: _(“Game developer Images | Free Vectors, Stock Photos & PSD”)_
  
+
+
 ###      Video Game Developer
 https://core.myblueprint.ca/V5/Work/Occupation  
 
@@ -38,29 +40,35 @@ Video game making is something I have been eager to do and learn since I was you
 * Reading comprehension - Understanding written works and documentation
 * Artistic Talent - To create unique and memorable aspects in the game
 
-* Salary: 38-76k (low to high) according to myBlueprint
+* Salary: 38-76k (low to high) 
+
+#### _Source: (myBlueprint)_
+
+---
+
+# 1.2 Education
 
 
-## 1.2 Education
-
-
-University of Waterloo
+### __University of Waterloo (insert image here)__
 
 Faculty of Mathematics
-Computer Science Undergraduate Degree (regular or coop)
+Computer Science Undergraduate Degree (coop)
+Estimated Time: 5 Years
 
-Requirements:
-six Grade 12 U/M course including
-Advanced Functions
-Calculus and Vectors
-Grade 12 English
-Additional U course
-Recommended to take Grade 11 Comsci
-Admission average: around low 90s-mid 90s, and individual selection
-based on both application and the AIF form that outlines personal statements/info about yourself
-Recommended to take Euclid/CSMC and/or CCC
 
- (“Computer Science | Undergraduate Programs”)
+__Requirements:__
+* Six Grade 12 U/M course including:
+    * Advanced Functions
+    * Calculus and Vectors
+    * Grade 12 English
+    * Additional U course  
+* Recommended to take Grade 11 Comsci
+* Admission average: around low 90s-mid 90s (individual selection based on both application and the AIF form that outlines personal achievements)
+* Recommended to take Euclid/CSMC and/or CCC
+
+ #### _Source: (“Computer Science | Undergraduate Programs”)_
+
+---
 
 Possible First Year Programs:
 
@@ -78,4 +86,10 @@ MATH 136 – Linear Algebra 1 for Honours Mathematics
 MATH 138 – Calculus 2 for Honours Mathematics
 JAPAN 102R - First-Year Japanese 2
 PSYCH 101 - Introductory Psychology
-(“Courses for your Computer Science degree | Undergraduate Programs”)
+
+#### _Source: (“Courses for your Computer Science degree | Undergraduate Programs”)_
+
+---
+
+
+## 1.3 Experiential Learning
