@@ -11,24 +11,23 @@ By Kevin Huang
 | 1.2  | Education  |
 | 1.3  | Experiential Learning  |
 | 1.4  | Real Jobs  |
-
+| 2.0  | Works Cited  |
 ---
 
 
 # 1.1 Basics
 
-<img src = "gamedeveloper_image.PNG"  width = "250"  height = "250">
+<img src = "gamedeveloper_image.PNG"  width = "300"  height = "200">
 
 
 Source: _(“Game developer Images | Free Vectors, Stock Photos & PSD”)_
  
 
 
-###      Video Game Developer
-https://core.myblueprint.ca/V5/Work/Occupation  
+### Video Game Developer
 
 
-Video game making is something I have been eager to do and learn since I was young, and as such is the job I have picked for this research assignment. The role of a developer is to collaborate with others in order to design games. Oftentimes, they will attend meetings and workshops to improve upon their product and hopefully achieve commercial success. Generally college diploma is generally required, but most important is a portfolio based on your previous experiences and programming knowledge. (myBlueprint, 2022) 
+Video game making is something I have been eager to do and learn since I was young, and as such is the job I have picked for this research assignment. The role of a developer is to collaborate with others in order to design games. Oftentimes, they will attend meetings and workshops to improve upon their product and hopefully achieve commercial success. Generally college diploma is generally required, but most important is a portfolio based on your previous experiences and programming knowledge. 
 
 
 
@@ -49,11 +48,17 @@ Video game making is something I have been eager to do and learn since I was you
 # 1.2 Education
 
 
-### __University of Waterloo (insert image here)__
+### __University of Waterloo__
 
-Faculty of Mathematics
-Computer Science Undergraduate Degree (coop)
-Estimated Time: 5 Years
+<img src = "waterloo_image.PNG"  width = "400"  height = "200">
+
+
+#### _Source: (“First image of black hole captured | Waterloo News”)_
+---
+
+* Faculty of Mathematics
+* Computer Science Undergraduate Degree (coop)
+* Estimated Time: 5 Years
 
 
 __Requirements:__
@@ -70,22 +75,22 @@ __Requirements:__
 
 ---
 
-Possible First Year Programs:
-
+__Possible First Year Programs:__
 Sept to Dec:
-CS 135 - Designing Functional Programs
-MATH 135 - Algebra for Honours Mathematics
-MATH 137 - Calculus 1 for Honours Mathematics
-SPCOM 100 - Interpersonal Communication
-Japan 101R - First-Year Japanese 1
+* CS 135 - Designing Functional Programs
+* MATH 135 - Algebra for Honours Mathematics
+* MATH 137 - Calculus 1 for Honours Mathematics
+* SPCOM 100 - Interpersonal Communication (Req. Communication Skills course)
+* Japan 101R - First-Year Japanese 1 (Elective)
+
 
 Jan to April:
-CS 136 - Elementary Algorithm Design and Data Abstraction
-CS 136L – Tools and Techniques for Software Development
-MATH 136 – Linear Algebra 1 for Honours Mathematics
-MATH 138 – Calculus 2 for Honours Mathematics
-JAPAN 102R - First-Year Japanese 2
-PSYCH 101 - Introductory Psychology
+* CS 136 - Elementary Algorithm Design and Data Abstraction
+* CS 136L – Tools and Techniques for Software Development
+* MATH 136 – Linear Algebra 1 for Honours Mathematics
+* MATH 138 – Calculus 2 for Honours Mathematics
+* JAPAN 102R - First-Year Japanese 2 (Elective)
+* PSYCH 101 - Introductory Psychology (Elective)
 
 #### _Source: (“Courses for your Computer Science degree | Undergraduate Programs”)_
 
