@@ -20,7 +20,7 @@ By Kevin Huang
 <img src = "gamedeveloper_image.PNG"  width = "300"  height = "200">
 
 
-Source: _(“Game developer Images | Free Vectors, Stock Photos & PSD”)_
+#### _Image Source: [("Game developer Images | Free Vectors, Stock Photos & PSD")](https://www.freepik.com/free-photos-vectors/game-developer "Image of Game Developer")_
  
 
 
@@ -41,7 +41,7 @@ Source: _(“Game developer Images | Free Vectors, Stock Photos & PSD”)_
 
 * Salary: __$38-76k__ (low to high) 
 
-#### _Source: (myBlueprint)_
+#### _Source:[(“myBlueprint”)](https://core.myblueprint.ca "myBlueprint, Occupations Tab")_ 
 
 ---
 
@@ -53,7 +53,7 @@ Source: _(“Game developer Images | Free Vectors, Stock Photos & PSD”)_
 <img src = "waterloo_image.PNG"  width = "400"  height = "200">
 
 
-#### _Source: (“First image of black hole captured | Waterloo News”)_
+#### _Image Source: [(“First image of black hole captured | Waterloo News”)](https://uwaterloo.ca/news/news/first-image-black-hole-captured "Image of the University of Waterloo")_
 ---
 
 * Faculty of Mathematics
@@ -71,7 +71,7 @@ Source: _(“Game developer Images | Free Vectors, Stock Photos & PSD”)_
 * Admission average: around __low 90s-mid 90s__ (individual selection based on both application and the AIF form that outlines personal achievements)
 * Recommended to take Euclid/CSMC and/or CCC
 
- #### _Source: (“Computer Science | Undergraduate Programs”)_
+ #### _Source: [(“Computer Science | Undergraduate Programs”)](https://uwaterloo.ca/future-students/programs/computer-science "Waterloo Computer Science Program")_
 
 ---
 
@@ -94,7 +94,7 @@ Source: _(“Game developer Images | Free Vectors, Stock Photos & PSD”)_
 * __JAPAN 102R__ - First-Year Japanese 2 (Elective)
 * __PSYCH 101__ - Introductory Psychology (Elective)
 
-#### _Source: (“Courses for your Computer Science degree | Undergraduate Programs”)_
+#### _Source: [("Courses for your Computer Science degree | Undegraduate Programs")](https://uwaterloo.ca/future-students/courses/computer-science "Waterloo Undergraduate Courses")_
 
 ---
 
@@ -105,16 +105,18 @@ Source: _(“Game developer Images | Free Vectors, Stock Photos & PSD”)_
 
 <img align = "right" src = "learning_image.PNG"  width = "200"  height = "200">
 
+
 ### Ways to improve: 
 * __Attending online coding competitions__ - To hone my algorithm/problem solving
 * __Self-starter passion projects__ - Learning to manage my own projects, apply my technical skills
-* __Coop__ - Gaining experiences at real work
+* __Co-op__ - Gaining experiences at real work
 * __Volunteering__ - Developing leadership and communication skills
 * __Making my own games__ - A way to expand my knowledge within the industry and get experience with game engines
 * __Learn multiple programming languages__ - To be able to work in a variety of platforms
 
+#### _Image Source: [("Mullins")](https://adaptastraining.com/embedding-learning-when-change-and-adaptation-is-more-important-than-ever/ "Image of Learning")_
 
-#### Source: _(“Starting a Career in Video Game Development”)_
+#### _Source: [("Starting a Career in Video Game Development")](https://www.indeed.com/career-advice/finding-a-job/careers-in-games-development "Indeed")_
 
 
 ---
@@ -137,7 +139,7 @@ Software Developer/Programmer
     * Passionate
     * Understanding in OOP
 
-#### Source: _(“Software Developer / Programmer”)_
+#### _Source: [("Software Developer / Programmer")](https://ca.indeed.com/jobs?q=Game+Developer&l=&from=searchOnHP&vjk=cabe786482a6a3c5&advn=6851915266296973 "Indeed, Pleasant Solutions")_
 
 ---
 
@@ -155,7 +157,7 @@ Game Developer (C#/Multiplayer)
     * Experience in a game studio(s)/published your own game(s)
     * 3+ years experience in C#, Javascript, 3d & multiplayer development
 
-#### Source: _(“Game Developer (C#/Multiplayer)”)_
+#### _Source: [("Game Developer (C#/Multiplayer")](https://ca.indeed.com/jobs?q=Game+Developer&l=&vjk=906d8cd5122ceba9 "Indeed, Gatarn Games Ltd.")_
 
 ---
 
@@ -173,14 +175,14 @@ Game Developer
     * Expert in OOP, C++, and Standard Library
     * Provide mentorship to junior developers
 
-#### Sources: _(“computer game developer”), (“Home”)_
+#### _Sources: [("Home")](https://smokingguninc.bamboohr.com/careers/27 "Smoking Gun Inc") [("computer game developer")](https://www.jobbank.gc.ca/jobsearch/jobposting/36952323 "Job Bank Canada, Smoking Gun Inc")_ 
 
 ---
 
 
 # 2.0 Works Cited
 
-&emsp; &emsp; &emsp; &emsp; &emsp; Works Cited
+### &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Works Cited
 
 “computer game developer.” Job Bank, Government of Canada, 
 
@@ -240,6 +242,11 @@ Game Developer
 “Home.” YouTube, 
 
 &emsp; &emsp; https://smokingguninc.bamboohr.com/careers/27. Accessed 12 October 2022.
+
+
+Mullins, Celine. “Embedding Learning When Change and Adaptation Is More Important Than Ever!” Adaptas Training, 26 June 2020, 
+
+&emsp; &emsp; https://adaptastraining.com/embedding-learning-when-change-and-adaptation-is-more-important-than-ever/. Accessed 12 October 2022.
 
 
 “myBlueprint.” myBlueprint.ca, 
