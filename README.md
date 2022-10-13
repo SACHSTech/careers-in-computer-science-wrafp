@@ -76,6 +76,8 @@ __Requirements:__
 ---
 
 __Possible First Year Programs:__
+
+
 Sept to Dec:
 * CS 135 - Designing Functional Programs
 * MATH 135 - Algebra for Honours Mathematics
@@ -98,3 +100,19 @@ Jan to April:
 
 
 ## 1.3 Experiential Learning
+
+The following things are many of the ways to attain valuable experience. Many of the mid/higher level jobs look for a large game portfolio and lots of work experience. Many of these would make me a standout applicant due to having lots of experience, communication skills, passion projects, and problem solving skills.
+
+* Attending online coding competitions - to hone my algorithm/problem solving
+* Self-starter passion projects - Learning to manage my own projects, apply my technical skills
+* Coop - Gaining experiences at real work
+* Volunteering - Developing leadership and communication skills
+* Making my own games - A way to expand my knowledge within the industry and get experience with game engines
+* Learn multiple programming languages - To be able to work in a variety of platforms
+
+Source: _(“Starting a Career in Video Game Development”)_
+
+---
+
+
+## 1.4 Real Jobs
