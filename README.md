@@ -103,6 +103,8 @@ Video game making is something I have been eager to do and learn since I was you
 
 The following things are many of the ways to attain valuable experience. Many of the mid/higher level jobs look for a __large game portfolio__ and lots of work experience. Many of these would make me a standout applicant due to having lots of experience, communication skills, passion projects, and problem solving skills.
 
+<img align = "right" src = "learning_image.PNG"  width = "200"  height = "200">
+
 ### Ways to improve: 
 * __Attending online coding competitions__ - To hone my algorithm/problem solving
 * __Self-starter passion projects__ - Learning to manage my own projects, apply my technical skills
@@ -113,6 +115,7 @@ The following things are many of the ways to attain valuable experience. Many of
 
 
 #### Source: _(“Starting a Career in Video Game Development”)_
+
 
 ---
 
