@@ -98,21 +98,81 @@ Jan to April:
 
 ---
 
-
 ## 1.3 Experiential Learning
+
+---
 
 The following things are many of the ways to attain valuable experience. Many of the mid/higher level jobs look for a large game portfolio and lots of work experience. Many of these would make me a standout applicant due to having lots of experience, communication skills, passion projects, and problem solving skills.
 
-* Attending online coding competitions - to hone my algorithm/problem solving
+* Attending online coding competitions - To hone my algorithm/problem solving
 * Self-starter passion projects - Learning to manage my own projects, apply my technical skills
 * Coop - Gaining experiences at real work
 * Volunteering - Developing leadership and communication skills
 * Making my own games - A way to expand my knowledge within the industry and get experience with game engines
 * Learn multiple programming languages - To be able to work in a variety of platforms
 
-Source: _(“Starting a Career in Video Game Development”)_
+
+#### Source: _(“Starting a Career in Video Game Development”)_
 
 ---
 
 
 ## 1.4 Real Jobs
+
+
+---
+
+### __Entry level:__
+
+* Mississauga, ON
+* Salary: __Undefined__ (you ask for your salary range)
+* Description: Not your everyday software developer position. Challenging and fast moving, yet friendly and supportive: a career you will look forward to every day. Work with intelligent people in an exciting environment where every month is different.
+
+* Additional Requirements:
+    * Do not need a formal degree in related field(s)
+    * Fast learner
+    * Passionate
+    * Understanding in OOP
+
+Source: _(“Software Developer / Programmer”)_
+
+---
+
+### __Mid Level:__
+
+Game Developer (C#/Multiplayer)
+
+* Remote Job
+* Salary: __$80k-120k__ (Full-Time)
+* Description: Jump into developing a new multiplayer browser game with a talented remote team. Build the backend (C#) and front-end (Web/ Typescript) of the game with 1-2 other developers. Work with and help improve our (unity-like) proprietary multiplayer game engine, (Front-end: ECS+ Three.JS, Back-end: Box2d, ECS). Design, implement, maintain, and debug game code and features, while collaborating with artists and designers. Be a technical expert on our team
+
+* Additional Requirements:
+    * Thorough understanding of game engines
+    * Web development experience
+    * Experience in a game studio(s)/published your own game(s)
+    * 3+ years experience in C#, Javascript, 3d & multiplayer development
+
+Source: _(“Game Developer (C#/Multiplayer)”)_
+
+---
+
+### __Senior Level:__
+
+* Remote Job
+* Salary: __$90k-130k__ (Full-Time)
+* Description: As a Senior Programmer at Smoking Gun Interactive (SGI), you’re a talented and driven person who enjoys working on great projects. You have experience in a variety of areas of game development and are able and willing to work on any area of game programming needed, with a focus on full-stack development experience.  You’re experienced in mentoring and training programmers and are interested in eventually moving into a leadership role.
+
+* Additional Requirements:
+    * 5+ Years of experience
+    * Bachelor’s Degree in Computer Science
+    * Expert in OOP, C++, and Standard Library
+    * Provide mentorship to junior developers
+
+Sources: _(“computer game developer”), (“Home”)_
+
+---
+
+
+## 2.0 Works Cited
+
+
