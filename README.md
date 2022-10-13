@@ -27,7 +27,7 @@ Source: _(“Game developer Images | Free Vectors, Stock Photos & PSD”)_
 ### __Video Game Developer__
 
 
-Video game making is something I have been eager to do and learn since I was young, and as such is the job I have picked for this research assignment. The role of a developer is to collaborate with others in order to design games. Oftentimes, they will attend meetings and workshops to improve upon their product and hopefully achieve commercial success. Generally college diploma is generally required, but most important is a portfolio based on your previous experiences and programming knowledge. 
+&emsp; Video game making is something I have been eager to do and learn since I was young, and as such is the job I have picked for this research assignment. The role of a developer is to collaborate with others in order to design games. Oftentimes, they will attend meetings and workshops to improve upon their product and hopefully achieve commercial success. Generally college diploma is generally required, but most important is a portfolio based on your previous experiences and programming knowledge. 
 
 
 
@@ -101,7 +101,7 @@ Video game making is something I have been eager to do and learn since I was you
 # 1.3 Experiential Learning
 
 
-The following things are many of the ways to attain valuable experience. Many of the mid/higher level jobs look for a __large game portfolio__ and lots of work experience. Many of these would make me a standout applicant due to having lots of experience, communication skills, passion projects, and problem solving skills.
+&emsp; The following things are many of the ways to attain valuable experience. Many of the mid/higher level jobs look for a __large game portfolio__ and lots of work experience. Many of these would make me a standout applicant due to having lots of experience, communication skills, passion projects, and problem solving skills.
 
 <img align = "right" src = "learning_image.PNG"  width = "200"  height = "200">
 
@@ -180,4 +180,79 @@ Game Developer
 
 # 2.0 Works Cited
 
+&emsp; &emsp; &emsp; &emsp; &emsp; Works Cited
+
+“computer game developer.” Job Bank, Government of Canada, 
+
+&emsp; &emsp; https://www.jobbank.gc.ca/jobsearch/jobposting/36952323. Accessed 12 October 2022.
+
+
+“Computer Science | Undergraduate Programs.” University of Waterloo, 
+
+&emsp; &emsp; https://uwaterloo.ca/future-students/programs/computer-science. Accessed 12 October 2022.
+
+
+“Course Descriptions.” Undergraduate Calendar, 
+
+&emsp; &emsp; http://ugradcalendar.uwaterloo.ca/page/Course-Descriptions-Index. Accessed 12 October 2022.
+
+
+“Courses Computer Science.” Undergraduate Calendar, 
+
+&emsp; &emsp; https://ucalendar.uwaterloo.ca/2223/COURSE/course-CS.html#CS100S. Accessed 12 October 2022.
+
+
+“Courses for your Computer Science degree | Undergraduate Programs.” University of Waterloo, 
+
+&emsp; &emsp; https://uwaterloo.ca/future-students/courses/computer-science. Accessed 12 October 2022.
+
+
+“Courses Japanese.” Undergraduate Calendar, 
+
+&emsp; &emsp; https://ucalendar.uwaterloo.ca/2223/COURSE/course-JAPAN.html#JAPAN100S. Accessed 12 October 2022.
+
+
+“Courses Mathematics.” Undergraduate Calendar, 
+
+&emsp; &emsp; https://ucalendar.uwaterloo.ca/2223/COURSE/course-MATH.html#MATH100S. Accessed 12 October 2022.
+
+
+“Courses Psychology.” Undergraduate Calendar, 
+
+&emsp; &emsp; https://ucalendar.uwaterloo.ca/2223/COURSE/course-PSYCH.html#PSYCH100S. Accessed 12 October 2022.
+
+
+“First image of black hole captured | Waterloo News.” University of Waterloo, 9 April 2019, 
+
+&emsp; &emsp; https://uwaterloo.ca/news/news/first-image-black-hole-captured. Accessed 12 October 2022.
+
+
+“Game Developer (C#/Multiplayer).” Indeed, Indeed, 
+
+&emsp; &emsp; https://ca.indeed.com/jobs?q=Game+Developer&l=&vjk=906d8cd5122ceba9. Accessed 12 October 2022.
+
+
+“Game developer Images | Free Vectors, Stock Photos & PSD.” Freepik, 
+
+&emsp; &emsp; https://www.freepik.com/free-photos-vectors/game-developer. Accessed 12 October 2022.
+
+
+“Home.” YouTube, 
+
+&emsp; &emsp; https://smokingguninc.bamboohr.com/careers/27. Accessed 12 October 2022.
+
+
+“myBlueprint.” myBlueprint.ca, 
+
+&emsp; &emsp; https://core.myblueprint.ca. Accessed 12 October 2022.
+
+
+“Software Developer / Programmer.” Indeed, Indeed, 
+
+&emsp; &emsp; https://ca.indeed.com/jobs?q=Game+Developer&l=&from=searchOnHP&vjk=cabe786482a6a3c5&advn=6851915266296973. Accessed 12 October 2022.
+
+
+“Starting a Career in Video Game Development.” Indeed, 
+
+&emsp; &emsp; https://www.indeed.com/career-advice/finding-a-job/careers-in-games-development. Accessed 12 October 2022.
 
